@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 global.APIs = {
-    xteam: 'https://api.xteam.xyz',
+    xteam: 'https://api.xteam.xyz'hh,
     dzx: 'https://api.dhamzxploit.my.id',
     lol: 'https://api.lolhuman.xyz',
     violetics: 'https://violetics.pw',
